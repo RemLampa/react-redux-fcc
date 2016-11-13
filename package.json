@@ -1,7 +1,7 @@
 {
   "name": "react-redux-fcc",
   "version": "1.0.0",
-  "description": "React Redux Boilerplate Package for FCC Talk",
+  "description": "A Simple React Redux Boilerplate Package for Free Code Camp Manila Meetups and Talks",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --progress --colors"
