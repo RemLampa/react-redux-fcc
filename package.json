@@ -4,7 +4,8 @@
   "description": "A Simple React Redux Boilerplate Package for Free Code Camp Manila Meetups and Talks",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --progress --colors"
+    "start": "webpack-dev-server --progress --colors",
+    "build": "webpack -p --define process.env.NODE_ENV='\"production\"' --progress --colors"
   },
   "keywords": [
     "react",
